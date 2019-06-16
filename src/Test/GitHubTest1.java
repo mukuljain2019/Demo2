@@ -8,6 +8,10 @@ public class GitHubTest1 {
 		System.out.println("This is my fist GitHub project");
 		System.out.println("This is my fist GitHub project");
 		System.out.println("This is my fist GitHub project");
+		
+		System.out.println("This is my fist GitHub project");
+		System.out.println("This is my fist GitHub project");
+		System.out.println("This is my fist GitHub project");
 	}
 
 }
