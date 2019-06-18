@@ -10,6 +10,12 @@ public class WikiHubTest2 {
 		System.out.println("This is my Second GitHub project");
 		System.out.println("This is my Second GitHub project");
 		
+		System.out.println("This is my Second statement in test 2 in GitHub project");
+		System.out.println("This is my Second statement in test 2 in GitHub project");
+		System.out.println("This is my Second statement in test 2 in GitHub project");
+		System.out.println("This is my Second statement in test 2 in GitHub project");
+		
+		
 	}
 
 }
