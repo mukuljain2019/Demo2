@@ -15,6 +15,13 @@ public class GitHubTest1 {
 		
 		System.out.println("This is my second statement in GitHub project");
 		System.out.println("This is my second statment in GitHub project");
+		
+		System.out.println("This is my first test in GitHub project");
+		System.out.println("This is my first test in GitHub project");
+		System.out.println("This is my first test in GitHub project");
+		System.out.println("This is my first test in GitHub project");
+		
+		
 	}
 	
 
